@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuender",
+        "uuid": 8746650,
+        "checksum": "5f6r3"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
